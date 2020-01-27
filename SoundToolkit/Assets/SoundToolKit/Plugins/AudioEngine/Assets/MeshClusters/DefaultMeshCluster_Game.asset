@@ -68,4 +68,9 @@ MonoBehaviour:
   - kitchen_table_2_base
   - washbasin_AcousticProxy
   - Walls_Wall (7)
+  - Plane (4)
+  - Plane (3)
+  - Plane (2)
+  - Plane (1)
+  - Plane
   m_serializedGeometry: {fileID: 0}
